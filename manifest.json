@@ -16,7 +16,9 @@
         "*://rarbgproxy.org/top*",
         "*://rarbgproxy.org/torrents.php*",
         "*://rarbgmirror.xyz/top*",
-        "*://rarbgmirror.xyz/torrents.php*"
+        "*://rarbgmirror.xyz/torrents.php*",
+	      "*://rarbgaccessed.org/top.php*",
+	      "*://rarbgaccessed.org/torrents.php*"
       ],
       "js":
       [
